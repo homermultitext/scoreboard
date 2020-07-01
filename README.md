@@ -5,7 +5,7 @@ CITE collections documenting validation  and verification status by page of edit
 
 Tests applicable to all pages:
 
-- DSE
+- DSE:  validated with `edu.holycross.shot.citevalidator.DseValidator` 1.2.4 or later
 - *Iliad* orthography
 - *scholia* orthography
 - *scholia* indexing to *Iliad*
